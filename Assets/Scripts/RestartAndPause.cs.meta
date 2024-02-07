@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 81b4d21efa2dc4cebb5aa73caa1bee92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pauseInput: {fileID: 716251265503029302, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  - restartInput: {fileID: 3935343147259783669, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  - caveInput: {fileID: 8014997517920156043, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  - testInput: {fileID: 8614118570514228042, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  - CanyonInput: {fileID: -3746028015572668628, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  - cityInput: {fileID: 2597587026567664131, guid: f0180d865d3e048bb8d60b30c290599e,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
